@@ -1,0 +1,7 @@
+ .body {
+    background-image: linear-gradient(to bottom left,yellow,orange,magenta, aqua);  
+ }
+  
+ #family_member_name{
+     font-size:30px;
+ }
